@@ -1,0 +1,536 @@
+
+/* Class = "IBUILabel"; text = "Confiserie L. Buet"; ObjectID = "0DZ-2R-8FX"; */
+"0DZ-2R-8FX.text" = "Confiserie L. Buet";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "1GL-wa-eic"; */
+"1GL-wa-eic.normalTitle" = "iETML";
+
+/* Class = "IBUILabel"; text = "MacDonald"; ObjectID = "1RY-hs-l0l"; */
+"1RY-hs-l0l.text" = "MacDonald";
+
+/* Class = "IBUILabel"; text = "Avenue de Sévelin 46\n1004 Lausanne"; ObjectID = "3bZ-8a-n0D"; */
+"3bZ-8a-n0D.text" = "Avenue de Sévelin 46\n1004 Lausanne";
+
+/* Class = "IBUIViewController"; title = "Main View Controller"; ObjectID = "41Z-Kq-MAq"; */
+"41Z-Kq-MAq.title" = "Main View Controller";
+
+/* Class = "IBUILabel"; text = "Place Saint-François 2\n1003 Lausanne"; ObjectID = "49N-yU-XJn"; */
+"49N-yU-XJn.text" = "Place Saint-François 2\n1003 Lausanne";
+
+/* Class = "IBUILabel"; text = "Bd de Grancy 37\n1006 Lausanne"; ObjectID = "4MJ-Fu-PRL"; */
+"4MJ-Fu-PRL.text" = "Bd de Grancy 37\n1006 Lausanne";
+
+/* Class = "IBUILabel"; text = "Type: Restaurant / Hamburger"; ObjectID = "4aO-1q-9i3"; */
+"4aO-1q-9i3.text" = "Type: Restaurant / Hamburger";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "4bm-ks-9nU"; */
+"4bm-ks-9nU.normalTitle" = "iETML";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Horaires"; ObjectID = "5Zc-hO-lxL"; */
+"5Zc-hO-lxL.headerTitle" = "Horaires";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "5qT-Dk-YOh"; */
+"5qT-Dk-YOh.normalTitle" = "see map";
+
+/* Class = "IBUIViewController"; title = "Detail"; ObjectID = "6EQ-TT-lF2"; */
+"6EQ-TT-lF2.title" = "Detail";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "6Qf-oj-opk"; */
+"6Qf-oj-opk.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Avenue du Chablais 3B\n1007 Lausanne"; ObjectID = "6a6-bG-0Xi"; */
+"6a6-bG-0Xi.text" = "Avenue du Chablais 3B\n1007 Lausanne";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "6fM-HF-MwD"; */
+"6fM-HF-MwD.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Bubble Café Lausanne"; ObjectID = "6v2-KA-wuM"; */
+"6v2-KA-wuM.text" = "Bubble Café Lausanne";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "7S5-NV-78O"; */
+"7S5-NV-78O.normalTitle" = "iETML";
+
+/* Class = "IBUILabel"; text = "Map"; ObjectID = "7Sa-HC-dPP"; */
+"7Sa-HC-dPP.text" = "Map";
+
+/* Class = "IBUILabel"; text = "Rue de Sébeillon 12\n1004 Lausanne"; ObjectID = "7f4-m7-Xns"; */
+"7f4-m7-Xns.text" = "Rue de Sébeillon 12\n1004 Lausanne";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "7uf-Py-IsL"; */
+"7uf-Py-IsL.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "http://openclassrooms.com/courses/creez-des-applications-pour-iphone-ipad-et-ipod-touch/les-informations-tabulaires"; ObjectID = "8O7-8V-tvJ"; */
+"8O7-8V-tvJ.text" = "http://openclassrooms.com/courses/creez-des-applications-pour-iphone-ipad-et-ipod-touch/les-informations-tabulaires";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "8Y7-TO-F5b"; */
+"8Y7-TO-F5b.normalTitle" = "iETML";
+
+/* Class = "IBUILabel"; text = "Rue de Bourg 16-18\n1003 Lausanne"; ObjectID = "8dv-pk-QrQ"; */
+"8dv-pk-QrQ.text" = "Rue de Bourg 16-18\n1003 Lausanne";
+
+/* Class = "IBUILabel"; text = "http://icons8.com/web-app/for/all/plus"; ObjectID = "8kg-0Z-gf2"; */
+"8kg-0Z-gf2.text" = "http://icons8.com/web-app/for/all/plus";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Transport"; ObjectID = "9Ea-xJ-mqX"; */
+"9Ea-xJ-mqX.headerTitle" = "Transport";
+
+/* Class = "IBUILabel"; text = "Site servant à réunir les informations sur les restaurant"; ObjectID = "9Jc-qB-4xM"; */
+"9Jc-qB-4xM.text" = "Site used to gather information on restaurant";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "9KS-4q-cJH"; */
+"9KS-4q-cJH.normalTitle" = "iETML";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "A6k-sU-Fvi"; */
+"A6k-sU-Fvi.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Conecode"; ObjectID = "Ac5-Rh-ZxZ"; */
+"Ac5-Rh-ZxZ.text" = "Conecode";
+
+/* Class = "IBUILabel"; text = "Tutoriel pris comme modèle "; ObjectID = "BEm-9d-DhB"; */
+"BEm-9d-DhB.text" = "Manual as a model";
+
+/* Class = "IBUILabel"; text = "Google Maps"; ObjectID = "BOs-R0-rN7"; */
+"BOs-R0-rN7.text" = "Google Maps";
+
+/* Class = "IBUILabel"; text = "Rue du Grand-Pont 8\n1003 Lausanne"; ObjectID = "BPi-12-ghv"; */
+"BPi-12-ghv.text" = "Rue du Grand-Pont 8\n1003 Lausanne";
+
+/* Class = "IBUILabel"; text = "Bar à café le Sayonara"; ObjectID = "BvQ-Zq-XKu"; */
+"BvQ-Zq-XKu.text" = "Bar à café le Sayonara";
+
+/* Class = "IBUILabel"; text = "Restaurant Le Mistral"; ObjectID = "C4T-OY-Yjf"; */
+"C4T-OY-Yjf.text" = "Restaurant Le Mistral";
+
+/* Class = "IBUILabel"; text = "Avenue de Sévelin 2\n1004 Lausanne"; ObjectID = "C8c-C9-bMZ"; */
+"C8c-C9-bMZ.text" = "Avenue de Sévelin 2\n1004 Lausanne";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "CAU-Uu-zbf"; */
+"CAU-Uu-zbf.text" = "Title";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Repas"; ObjectID = "CBF-X5-Ytg"; */
+"CBF-X5-Ytg.headerTitle" = "Repas";
+
+/* Class = "IBUILabel"; text = "Aux bonnes choses, Metropole 2000"; ObjectID = "CBW-bJ-dL4"; */
+"CBW-bJ-dL4.text" = "Aux bonnes choses, Metropole 2000";
+
+/* Class = "IBUILabel"; text = "Course Explaining the functioning of tables"; ObjectID = "CLY-ak-vql"; */
+"CLY-ak-vql.text" = "Course Explaining the functioning of tables";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "CQ3-Kc-xfH"; */
+"CQ3-Kc-xfH.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Transport"; ObjectID = "DOI-XE-8Ou"; */
+"DOI-XE-8Ou.text" = "Transport";
+
+/* Class = "IBUILabel"; text = "http://www.appcoda.com/ios-programming-rss-reader-tutorial/"; ObjectID = "DQW-Vo-JEM"; */
+"DQW-Vo-JEM.text" = "http://www.appcoda.com/ios-programming-rss-reader-tutorial/";
+
+/* Class = "IBUILabel"; text = "supermarket"; ObjectID = "EEk-Ph-uXF"; */
+"EEk-Ph-uXF.text" = "Supermarket";
+
+/* Class = "IBUILabel"; text = "Chemin de Montelly 1\n1007 Lausanne"; ObjectID = "EVi-T4-QY1"; */
+"EVi-T4-QY1.text" = "Chemin de Montelly 1\n1007 Lausanne";
+
+/* Class = "IBUILabel"; text = "Rue Couchirard 15\n1004 Lausanne"; ObjectID = "ElT-uq-Lbd"; */
+"ElT-uq-Lbd.text" = "Rue Couchirard 15\n1004 Lausanne";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "Epy-7B-a0t"; */
+"Epy-7B-a0t.normalTitle" = "iETML";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "F35-cf-Utk"; */
+"F35-cf-Utk.normalTitle" = "see map";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Menu glissant"; ObjectID = "F8O-D1-bsl"; */
+"F8O-D1-bsl.headerTitle" = "slide menu";
+
+/* Class = "IBUILabel"; text = "Type: Restaurant / Sandwich shop"; ObjectID = "FRc-Me-mXP"; */
+"FRc-Me-mXP.text" = "Type: Restaurant / Sandwich shop";
+
+/* Class = "IBUILabel"; text = "Avenue Recordon 2\n1004 Lausanne"; ObjectID = "Fpj-4q-4ct"; */
+"Fpj-4q-4ct.text" = "Avenue Recordon 2\n1004 Lausanne";
+
+/* Class = "IBUILabel"; text = "Coffee and Tea"; ObjectID = "Gei-bf-86A"; */
+"Gei-bf-86A.text" = "Coffee and Tea";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "GzJ-6o-U4i"; */
+"GzJ-6o-U4i.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Végétarien"; ObjectID = "HQI-gN-Ela"; */
+"HQI-gN-Ela.text" = "Vegetarien";
+
+/* Class = "IBUILabel"; text = "Intertech"; ObjectID = "Hh7-hw-OWP"; */
+"Hh7-hw-OWP.text" = "Intertech";
+
+/* Class = "IBUILabel"; text = "Transport Lausannois"; ObjectID = "HhI-Ei-T4g"; */
+"HhI-Ei-T4g.text" = "Transport Lausannois";
+
+/* Class = "IBUILabel"; text = "Place de la Palud 10\n1003 Lausanne"; ObjectID = "Hj9-n1-aZX"; */
+"Hj9-n1-aZX.text" = "Place de la Palud 10\n1003 Lausanne";
+
+/* Class = "IBUILabel"; text = "Route de Bel-Air 1\n1003 Lausanne"; ObjectID = "KVm-TY-9wm"; */
+"KVm-TY-9wm.text" = "Route de Bel-Air 1\n1003 Lausanne";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "KXT-sw-Koj"; */
+"KXT-sw-Koj.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Rue des Terreaux 10\n1003 Lausanne"; ObjectID = "Kq4-QC-nhG"; */
+"Kq4-QC-nhG.text" = "Rue des Terreaux 10\n1003 Lausanne";
+
+/* Class = "IBUILabel"; text = "Lidl"; ObjectID = "LeG-lX-Og3"; */
+"LeG-lX-Og3.text" = "Lidl";
+
+/* Class = "IBUILabel"; text = "Mon Petit Boulanger Chéri"; ObjectID = "Lpr-Hp-F5Z"; */
+"Lpr-Hp-F5Z.text" = "Mon Petit Boulanger Chéri";
+
+/* Class = "IBUILabel"; text = "Fast Food"; ObjectID = "M01-Su-jEm"; */
+"M01-Su-jEm.text" = "Fast Food";
+
+/* Class = "IBUILabel"; text = "Tutoriel sur fonctionnalité d'actualisation des des tables."; ObjectID = "MBK-JE-04h"; */
+"MBK-JE-04h.text" = "Tutorial on tables updating functionality.";
+
+/* Class = "IBUILabel"; text = "Home page"; ObjectID = "MBa-OQ-9mX"; */
+"MBa-OQ-9mX.text" = "Home page";
+
+/* Class = "IBUITableViewController"; title = "Sidebar"; ObjectID = "Meq-yH-YF6"; */
+"Meq-yH-YF6.title" = "Sidebar";
+
+/* Class = "IBUILabel"; text = "Avenue de Morges 119\n1004 Lausanne"; ObjectID = "NAw-pL-aIg"; */
+"NAw-pL-aIg.text" = "Avenue de Morges 119\n1004 Lausanne";
+
+/* Class = "IBUILabel"; text = "Appcoda"; ObjectID = "NPw-s4-t9f"; */
+"NPw-s4-t9f.text" = "Appcoda";
+
+/* Class = "IBUILabel"; text = "Avenue Recordon 2\n1004 Lausanne"; ObjectID = "NUq-qJ-alQ"; */
+"NUq-qJ-alQ.text" = "Avenue Recordon 2\n1004 Lausanne";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "Nqt-AW-0K9"; */
+"Nqt-AW-0K9.normalTitle" = "iETML";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "NuN-cl-noG"; */
+"NuN-cl-noG.normalTitle" = "iETML";
+
+/* Class = "IBUILabel"; text = "Ozimi"; ObjectID = "NxN-Qv-Sqd"; */
+"NxN-Qv-Sqd.text" = "Ozimi";
+
+/* Class = "IBUILabel"; text = "Allée Ernest-Ansermet 3\n1003 Lausanne"; ObjectID = "Ory-DU-wQf"; */
+"Ory-DU-wQf.text" = "Allée Ernest-Ansermet 3\n1003 Lausanne";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "Ot0-ak-H6E"; */
+"Ot0-ak-H6E.normalTitle" = "iETML";
+
+/* Class = "IBUILabel"; text = "Site d'où previent tous les icones"; ObjectID = "OvI-7e-K0S"; */
+"OvI-7e-K0S.text" = "Site from which all icons";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "PP0-k6-ajV"; */
+"PP0-k6-ajV.normalTitle" = "see map";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "QVF-6Y-6bR"; */
+"QVF-6Y-6bR.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Welcome"; ObjectID = "QYi-RZ-ulg"; */
+"QYi-RZ-ulg.text" = "Welcome";
+
+/* Class = "IBUILabel"; text = "Courts use to learn how to use xcode and basic programming."; ObjectID = "RAU-ko-bBg"; */
+"RAU-ko-bBg.text" = "Courts use to learn how to use xcode and basic programming.";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "RmB-F9-Dkr"; */
+"RmB-F9-Dkr.normalTitle" = "iETML";
+
+/* Class = "IBUILabel"; text = "Cafeteria ETML"; ObjectID = "RxS-aL-F5B"; */
+"RxS-aL-F5B.text" = "Cafeteria ETML";
+
+/* Class = "IBUILabel"; text = "Migros"; ObjectID = "S0v-QT-H7w"; */
+"S0v-QT-H7w.text" = "Migros";
+
+/* Class = "IBUILabel"; text = "Reference"; ObjectID = "SZX-uS-LSl"; */
+"SZX-uS-LSl.text" = "Reference";
+
+/* Class = "IBUILabel"; text = "Bar à Café le 421"; ObjectID = "TH4-Pf-1kf"; */
+"TH4-Pf-1kf.text" = "Bar à Café le 421";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "TbV-ou-mJU"; */
+"TbV-ou-mJU.normalTitle" = "iETML";
+
+/* Class = "IBUILabel"; text = "Rue de Genève 35\n1003 Lausanne"; ObjectID = "UQm-Yf-x7f"; */
+"UQm-Yf-x7f.text" = "Rue de Genève 35\n1003 Lausanne";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "UYM-bk-vTN"; */
+"UYM-bk-vTN.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "http://conecode.com/news/2011/05/ios-tutorial-creating-a-web-view-uiwebview/"; ObjectID = "Uf9-Ud-vf2"; */
+"Uf9-Ud-vf2.text" = "http://conecode.com/news/2011/05/ios-tutorial-creating-a-web-view-uiwebview/";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "V02-T4-wwa"; */
+"V02-T4-wwa.normalTitle" = "iETML";
+
+/* Class = "IBUILabel"; text = "Tutoriel sur les UIwebView"; ObjectID = "V52-TS-85L"; */
+"V52-TS-85L.text" = "Tutoriel sur les UIwebView";
+
+/* Class = "IBUILabel"; text = "Café-Restaurant le Sayonara"; ObjectID = "Viy-AX-80C"; */
+"Viy-AX-80C.text" = "Café-Restaurant le Sayonara";
+
+/* Class = "IBUILabel"; text = "Café de Montelly François Croteau"; ObjectID = "W2n-g3-d26"; */
+"W2n-g3-d26.text" = "Café de Montelly François Croteau";
+
+/* Class = "IBUILabel"; text = "Rue des Terreaux 23\n1003 Lausanne"; ObjectID = "Waa-eI-a4p"; */
+"Waa-eI-a4p.text" = "Rue des Terreaux 23\n1003 Lausanne";
+
+/* Class = "IBUITableViewController"; title = "Sidebar"; ObjectID = "X7t-fa-jzm"; */
+"X7t-fa-jzm.title" = "Sidebar";
+
+/* Class = "IBUILabel"; text = "Type: Kebab / Pizza"; ObjectID = "XGS-Ef-zJj"; */
+"XGS-Ef-zJj.text" = "Type: Kebab / Pizza";
+
+/* Class = "IBUILabel"; text = "Page used to display the horraires ETML"; ObjectID = "YOO-7z-BR2"; */
+"YOO-7z-BR2.text" = "Page used to display the horraires ETML";
+
+/* Class = "IBUILabel"; text = "Rue du Caudray 6\n1020 Renens"; ObjectID = "YbJ-vf-Nk9"; */
+"YbJ-vf-Nk9.text" = "Rue du Caudray 6\n1020 Renens";
+
+/* Class = "IBUILabel"; text = "Denner\n"; ObjectID = "ZSa-P6-ize"; */
+"ZSa-P6-ize.text" = "Denner\n";
+
+/* Class = "IBUILabel"; text = "Tutorial used to insert images"; ObjectID = "aeG-Qv-YCG"; */
+"aeG-Qv-YCG.text" = "Tutorial used to insert images";
+
+/* Class = "IBUITableViewController"; title = "Master"; ObjectID = "bOd-eH-feL"; */
+"bOd-eH-feL.title" = "Master";
+
+/* Class = "IBUILabel"; text = "Boulangerie M. Marquet"; ObjectID = "baw-BR-fZN"; */
+"baw-BR-fZN.text" = "Boulangerie M. Marquet";
+
+/* Class = "IBUILabel"; text = "Avenue de France 2\n1004 Lausanne"; ObjectID = "brV-Vg-3s9"; */
+"brV-Vg-3s9.text" = "Avenue de France 2\n1004 Lausanne";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "c4o-Bk-xjt"; */
+"c4o-Bk-xjt.normalTitle" = "see map";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "cHf-U9-shD"; */
+"cHf-U9-shD.normalTitle" = "see map";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "dM9-ic-Gh3"; */
+"dM9-ic-Gh3.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Café Théâtre Le Pois Chiche"; ObjectID = "dle-GW-Dpk"; */
+"dle-GW-Dpk.text" = "Café Théâtre Le Pois Chiche";
+
+/* Class = "IBUILabel"; text = "http://maps.google.com"; ObjectID = "dnX-FA-1HT"; */
+"dnX-FA-1HT.text" = "http://maps.google.com";
+
+/* Class = "IBUILabel"; text = "Sushi express Ekaï"; ObjectID = "e2b-yT-0dA"; */
+"e2b-yT-0dA.text" = "Sushi express Ekaï";
+
+/* Class = "IBUILabel"; text = "Openclassroom"; ObjectID = "eN6-F1-IXw"; */
+"eN6-F1-IXw.text" = "Openclassroom";
+
+/* Class = "IBUILabel"; text = "Avenue de Sévelin 46\n1004 Lausanne"; ObjectID = "ePq-c2-YaQ"; */
+"ePq-c2-YaQ.text" = "Avenue de Sévelin 46\n1004 Lausanne";
+
+/* Class = "IBUILabel"; text = "Burger King"; ObjectID = "f1y-Yz-d64"; */
+"f1y-Yz-d64.text" = "Burger King";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "fPO-o2-Wow"; */
+"fPO-o2-Wow.normalTitle" = "iETML";
+
+/* Class = "IBUILabel"; text = "Migros"; ObjectID = "fUe-OU-lEE"; */
+"fUe-OU-lEE.text" = "Migros";
+
+/* Class = "IBUILabel"; text = "http://www.t-l.ch/se-deplacer/horaires/horaires-en-ligne"; ObjectID = "fiE-RB-rye"; */
+"fiE-RB-rye.text" = "http://www.t-l.ch/se-deplacer/horaires/horaires-en-ligne";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "fra-t0-PTr"; */
+"fra-t0-PTr.normalTitle" = "iETML";
+
+/* Class = "IBUILabel"; text = "Rue du Petit-Chêne 1\n1270 1003 Lausanne"; ObjectID = "g0F-aZ-XTo"; */
+"g0F-aZ-XTo.text" = "Rue du Petit-Chêne 1\n1270 1003 Lausanne";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "geZ-oy-uH9"; */
+"geZ-oy-uH9.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Maupas kebab"; ObjectID = "gpY-5E-lo7"; */
+"gpY-5E-lo7.text" = "Maupas kebab";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "gth-TR-2ut"; */
+"gth-TR-2ut.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Appcoda"; ObjectID = "hSX-89-cob"; */
+"hSX-89-cob.text" = "Appcoda";
+
+/* Class = "IBUILabel"; text = "Cette application est consacré à l'etml. Elle vous permettra de vous déplacé dans l'école et ces allentours facilement. Vous pouvez accédez au différentes pages disponible depuis le menu lui même accéssible depuis le petit bouton en haut à gauche de votre écran. Les différents pages sont, l'acctualité, une carte de Lausanne avec ces resstaurant mis dessus, les transports publique relient la gare à l'etml et les repas que vous pouvez manger toutes autours de l'école."; ObjectID = "hbd-mh-png"; */
+"hbd-mh-png.text" = "This application was created to ease the lives of students and teachers in ETML and people passing through this school. You pouvezaccédez the different pages from the menu by sliding your finger to the right or by pressing the button on the top left of your screen . There are 6 main pages : one for news of ETML , with a map of Lausanne with these restaurants, for transport ( tl ) , once for disponbiles meal, then for horraires and finally a which present sites that have helped to create this application.";
+
+/* Class = "IBUILabel"; text = "https://www.portail.vd.ch/formation/hyperplanning/etml/invite"; ObjectID = "hj3-aO-0AE"; */
+"hj3-aO-0AE.text" = "https://www.portail.vd.ch/formation/hyperplanning/etml/invite";
+
+/* Class = "IBUILabel"; text = "Rue Haldimand 11\n1003 Lausanne1270 "; ObjectID = "ieX-qB-F3n"; */
+"ieX-qB-F3n.text" = "Rue Haldimand 11\n1003 Lausanne1270 ";
+
+/* Class = "IBUILabel"; text = "Conecode"; ObjectID = "j6P-E4-DeZ"; */
+"j6P-E4-DeZ.text" = "Conecode";
+
+/* Class = "IBUILabel"; text = "Cafeteria ETML"; ObjectID = "jBf-gA-QJd"; */
+"jBf-gA-QJd.text" = "Cafeteria ETML";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "jZ6-ee-LBU"; */
+"jZ6-ee-LBU.normalTitle" = "see map";
+
+/* Class = "IBUITableViewSection"; headerTitle = "News"; ObjectID = "lEf-zX-86O"; */
+"lEf-zX-86O.headerTitle" = "News";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "lfJ-xq-9kX"; */
+"lfJ-xq-9kX.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = " Grand-Pont 10, 1003 Lausanne"; ObjectID = "mU0-dd-SEP"; */
+"mU0-dd-SEP.text" = " Grand-Pont 10, 1003 Lausanne";
+
+/* Class = "IBUILabel"; text = "Avenue de Morges 60\n1004 Lausanne"; ObjectID = "mzJ-7V-zD8"; */
+"mzJ-7V-zD8.text" = "Avenue de Morges 60\n1004 Lausanne";
+
+/* Class = "IBUILabel"; text = "Menu"; ObjectID = "neq-3o-bxe"; */
+"neq-3o-bxe.text" = "Menu";
+
+/* Class = "IBUILabel"; text = "http://conecode.com/news/2011/06/ios-tutorial-creating-an-image-view-uiimageview/"; ObjectID = "owF-Yf-CCQ"; */
+"owF-Yf-CCQ.text" = "http://conecode.com/news/2011/06/ios-tutorial-creating-an-image-view-uiimageview/";
+
+/* Class = "IBUILabel"; text = "Coop Lausanne Prelaz"; ObjectID = "p0w-tU-0e8"; */
+"p0w-tU-0e8.text" = "Coop Lausanne Prelaz";
+
+/* Class = "IBUILabel"; text = "News"; ObjectID = "p8k-vm-tJI"; */
+"p8k-vm-tJI.text" = "News";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "pPz-WX-q2u"; */
+"pPz-WX-q2u.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Page utiliser pour afficher les horaires de bus"; ObjectID = "peg-ta-eJr"; */
+"peg-ta-eJr.text" = "Page used to display bus timetables";
+
+/* Class = "IBUILabel"; text = "Brasserie de Montbenon"; ObjectID = "pmr-Xr-aIW"; */
+"pmr-Xr-aIW.text" = "Brasserie de Montbenon";
+
+/* Class = "IBUILabel"; text = "Polli - Petit-Chêne"; ObjectID = "poX-gc-D1v"; */
+"poX-gc-D1v.text" = "Polli - Petit-Chêne";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "puM-cH-OR3"; */
+"puM-cH-OR3.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Rue de l'Ale 42\n1003 Lausanne"; ObjectID = "q5j-vh-ceb"; */
+"q5j-vh-ceb.text" = "Rue de l'Ale 42\n1003 Lausanne";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "qRX-Da-7x1"; */
+"qRX-Da-7x1.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Type: Hamburger"; ObjectID = "qeR-Qy-hJ8"; */
+"qeR-Qy-hJ8.text" = "Type: Hamburger";
+
+/* Class = "IBUILabel"; text = "Rue de Genève 77\n1004 Lausanne"; ObjectID = "qq1-f1-uVl"; */
+"qq1-f1-uVl.text" = "Rue de Genève 77\n1004 Lausanne";
+
+/* Class = "IBUILabel"; text = "Type: Hamburger"; ObjectID = "qvr-Sq-mxi"; */
+"qvr-Sq-mxi.text" = "Type: Hamburger";
+
+/* Class = "IBUILabel"; text = "Café Romand"; ObjectID = "rUf-5b-wpc"; */
+"rUf-5b-wpc.text" = "Café Romand";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "rcL-PF-I8G"; */
+"rcL-PF-I8G.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Mael"; ObjectID = "sF3-DY-IiS"; */
+"sF3-DY-IiS.text" = "Meal";
+
+/* Class = "IBUILabel"; text = "http://www.intertech.com/Blog/ios-6-pull-to-refresh-uirefreshcontrol/"; ObjectID = "sGN-Ln-rGM"; */
+"sGN-Ln-rGM.text" = "http://www.intertech.com/Blog/ios-6-pull-to-refresh-uirefreshcontrol/";
+
+/* Class = "IBUILabel"; text = "Cafe de l'hôtel de Ville"; ObjectID = "se9-QZ-P1K"; */
+"se9-QZ-P1K.text" = "Cafe de l'hôtel de Ville";
+
+/* Class = "IBUILabel"; text = "Etat de vaud"; ObjectID = "tP6-6M-cMf"; */
+"tP6-6M-cMf.text" = "Etat de vaud";
+
+/* Class = "IBUILabel"; text = "Icon8"; ObjectID = "tcN-Pb-Vio"; */
+"tcN-Pb-Vio.text" = "Icon8";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "umz-XZ-ffi"; */
+"umz-XZ-ffi.normalTitle" = "see map";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "uzz-PP-kIC"; */
+"uzz-PP-kIC.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Rue des Terreaux\n1002 Lausanne"; ObjectID = "vC8-e9-KTZ"; */
+"vC8-e9-KTZ.text" = "Rue des Terreaux\n1002 Lausanne";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Home Page"; ObjectID = "vVF-vx-O4B"; */
+"vVF-vx-O4B.headerTitle" = "Home Page";
+
+/* Class = "IBUILabel"; text = "Restaurant Le Mistral"; ObjectID = "vkZ-WL-2gk"; */
+"vkZ-WL-2gk.text" = "Restaurant Le Mistral";
+
+/* Class = "IBUILabel"; text = "Schedule"; ObjectID = "w4S-hA-UWD"; */
+"w4S-hA-UWD.text" = "Schedule";
+
+/* Class = "IBUILabel"; text = "http://openclassrooms.com/courses/creez-des-applications-pour-iphone-ipad-et-ipod-touch"; ObjectID = "wGo-u6-L9m"; */
+"wGo-u6-L9m.text" = "http://openclassrooms.com/courses/creez-des-applications-pour-iphone-ipad-et-ipod-touch";
+
+/* Class = "IBUILabel"; text = "Openclassroom"; ObjectID = "wNC-s2-Ph8"; */
+"wNC-s2-Ph8.text" = "Openclassroom";
+
+/* Class = "IBUILabel"; text = "Type: Sushi"; ObjectID = "wcE-1c-dJv"; */
+"wcE-1c-dJv.text" = "Type: Sushi";
+
+/* Class = "IBUIButton"; normalTitle = "iETML"; ObjectID = "wnb-pL-JCf"; */
+"wnb-pL-JCf.normalTitle" = "iETML";
+
+/* Class = "IBUILabel"; text = "Catégorie Repas"; ObjectID = "x0N-hl-mGA"; */
+"x0N-hl-mGA.text" = "Meal Category";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "x4s-3m-etr"; */
+"x4s-3m-etr.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Holy Cow! Gourmet Burger Company SA"; ObjectID = "y99-A4-uTQ"; */
+"y99-A4-uTQ.text" = "Holy Cow! Gourmet Burger Company SA";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "y99-NX-YEM"; */
+"y99-NX-YEM.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Tutorial used to set up the RSS Feed Reader"; ObjectID = "yBB-bB-eAQ"; */
+"yBB-bB-eAQ.text" = "Tutorial used to set up the RSS Feed Reader";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "ymt-Bt-x5L"; */
+"ymt-Bt-x5L.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "ALDI Lausanne"; ObjectID = "ypu-kk-F2M"; */
+"ypu-kk-F2M.text" = "ALDI Lausanne";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "z0X-PL-1aG"; */
+"z0X-PL-1aG.normalTitle" = "see map";
+
+/* Class = "IBUILabel"; text = "Type: Hamburger"; ObjectID = "zAM-TY-deb"; */
+"zAM-TY-deb.text" = "Type: Hamburger";
+
+/* Class = "IBUILabel"; text = "Bakery"; ObjectID = "zSN-j1-Vdg"; */
+"zSN-j1-Vdg.text" = "Bakery";
+
+/* Class = "IBUILabel"; text = "http://www.appcoda.com/ios-programming-sidebar-navigation-menu/"; ObjectID = "zuq-1u-txh"; */
+"zuq-1u-txh.text" = "http://www.appcoda.com/ios-programming-sidebar-navigation-menu/";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "7JD-ok-31"; */
+"7JD-ok-31.normalTitle" = "see map";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "bGP-I3-WNr"; */
+"bGP-I3-WNr.normalTitle" = "see map";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "GHk-rf-Mns"; */
+"GHk-rf-Mns.normalTitle" = "see map";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "Ymo-Mf-EzW"; */
+"Ymo-Mf-EzW.normalTitle" = "see map";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "1JH-sg-ALB"; */
+"1JH-sg-ALB.normalTitle" = "see map";
+
+/* Class = "IBUIButton"; normalTitle = "see map"; ObjectID = "fak-k6-lQ2"; */
+"fak-k6-lQ2.normalTitle" = "see map";
+
+"1NI-mh-dBF.text" = "For more details visit the official website of the ETML .";
+
+"bdz-Pl-sBV.normalTitle" = "Website ETML";
+

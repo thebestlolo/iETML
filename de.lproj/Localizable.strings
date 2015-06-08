@@ -1,0 +1,55 @@
+/* 
+  localizable.strings
+  iEtml
+
+  Created by test on 05.05.15.
+  Copyright (c) 2015 ETML. All rights reserved.
+*/
+
+// Message d'alerte en allemenand
+"MESSAGE" = "Für das reibungslose Funktionieren der Anwendung, verwendet er Daten aus dem Web, die in Kosten auf Ihrer Telefonrechnung resultierte kann.";
+
+// Titre du message en allemenand
+"ATTENTION" = "Warnung";
+
+// Bouton en allemand
+"ACCEPTER" = "Akzeptieren";
+
+// Titre actualité allemand
+"ACTU" = "Aktualität";
+
+//Titre carte en allemand
+"CARTE" = "Karte";
+
+// Titre Repas allemand
+"REPAS" = "Mahlzeit";
+
+//Titre Transport allemand
+"TRANSPORT" = "Verkehr";
+
+// Titre  horraire allemand
+"HORAIRE" = "Zeitplan";
+
+// Titre référence allemand
+"REFE" = "Hinweis";
+
+// Titre accueil allemand
+"ACCUEIL" = "Startseite";
+
+// Titre fast-food allemand
+"FASTFOOD" = "Fast-Food";
+
+// Titre Cantien etml allemand
+"CANTINE" = "Kantine ETML";
+
+// Titre boulangerie allemand
+"BOULANGERIE" = "Bäckerei";
+
+// Titre supermarché allemand
+"SUPERMARCHE" = "Supermarkt";
+
+// Titre café et thée allemand
+"CAFE" = "Tea Cafee";
+
+// Titre cafeteria ETML
+"CAFETERIA" = "Kantine ETML";

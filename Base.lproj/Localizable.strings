@@ -1,0 +1,55 @@
+/*
+ localizable.strings
+ iEtml
+ 
+ Created by test on 05.05.15.
+ Copyright (c) 2015 ETML. All rights reserved.
+ */
+
+// Message d'alerte en francais
+"MESSAGE" = "Pour le bon fonctionnement de l'application, elle utilise des données prevenant du web ce qui peux entrainé des couts sur votre facture téléphonique.";
+
+// Titre message en francais
+"ATTENTION" = "Avertissement";
+
+// Bouton "ok" en francais
+"ACCEPTER" = "Accepter";
+
+// Titre page actualtié français
+"ACTU" = "Actualité";
+
+//Titre Carte français
+"CARTE" = "Carte";
+
+//Titre Repas français
+"REPAS" = "Repas";
+
+// Titre transport français
+"TRANSPORT" = "Transport";
+
+// Titre horaie français
+"HORAIRE" = "Horaire";
+
+// TItre référence français
+"REFE" = "Référence";
+
+// Titre accueil francais
+"ACCUEIL" = "Page d'accueil";
+
+// Titer fast food français
+"FASTFOOD" = "Fast-Food";
+
+// Titre cantine français
+"CANTINE" = "Cantine ETML";
+
+// Titre boulangerie français
+"BOULANGERIE" = "Boulangerie";
+
+// Titre supermarché français
+"SUPERMARCHE" = "Super marchée";
+
+// Titre cafée et thé
+"CAFE" = "Cafée et Thé";
+
+// Titre cafétérie etml fançais
+"CAFETERIA" = "Caféteria ETML";

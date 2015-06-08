@@ -1,0 +1,55 @@
+/* 
+  localizable.strings
+  iEtml
+
+  Created by test on 05.05.15.
+  Copyright (c) 2015 ETML. All rights reserved.
+*/
+
+// Message d'alerte en anlgais
+"MESSAGE" = "For the proper functioning of the application, it uses data from the web which can resulted in costs on your phone bill.";
+
+// Titre du message en anglais
+"ATTENTION" = "Warning";
+
+// Bouton en anglais
+"ACCEPTER" = "Accept";
+
+// Titre actualté anglais
+"ACTU" = "News";
+
+//Titre carte anglais
+"CARTE" = "Map";
+
+//Titre repas anglais
+"REPAS" = "Meal";
+
+// Titre Transport anglais
+"TRANSPORT" = "Transport";
+
+// TItre horaire anlgais
+"HORAIRE"= "Schedule";
+
+// Titre référence anglais
+"REFE" = "Reference";
+
+// Titre accueil anglais
+"ACCUEIL" = "Home Page";
+
+// Titre fast food anglais
+"FASTFOOD" = "Fast-Food";
+
+// Titre cantine anglais
+"CANTINE" = "Canteen ETML";
+
+// Titre boulangerie anglais
+"BOULANGERIE" = "Bakery";
+
+// Titre supermarché anglais
+"SUPERMARCHE" = "Supermarket";
+
+// Titre café angalis
+"CAFE" = "Tea Cafée";
+
+// Titre cafétéria ETML anglais
+"CAFETERIA" = "Cafeteria ETML";
